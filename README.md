@@ -18,10 +18,22 @@ Visual components and Python
 
 ## Experiment:
 
+![exp (1)](https://github.com/KISHORENARAYANANSR/Open-Jacson-Networks/assets/148202102/2d4d0f3a-6cf1-4e89-8e3d-15077ce8a086)
 
-## Program
 
 
-## Output
+## Program:
+Developed By: KISHORE NARAYANAN S R Register No.: 212223110023
 
-## Result
+![program](https://github.com/KISHORENARAYANANSR/Open-Jacson-Networks/assets/148202102/772c7e82-ae8e-4f54-a94d-d6517e24d061)
+
+
+
+## Output:
+
+![op](https://github.com/KISHORENARAYANANSR/Open-Jacson-Networks/assets/148202102/23a7e551-1f8f-495f-9eff-8fefeebb19e1)
+
+## Result:
+
+The average number of material in the sysytem and in the conveyor and waiting time are
+successfully found.
